@@ -27,8 +27,13 @@ const paginationBottom =
 
 async function loadTracks() {
 
+    const tracksPath =
+        window.location.protocol === "file:"
+            ? "../output/tracks.json"
+            : "output/tracks.json";
+
     const response =
-        await fetch("../output/tracks.json");
+        await fetch(tracksPath);
 
     const data =
         await response.json();
