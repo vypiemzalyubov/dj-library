@@ -23,14 +23,11 @@ jobs:
       url: ${{ steps.deployment.outputs.page_url }}
 
     steps:
-
       - name: Checkout
         uses: actions/checkout@v6
 
-
       - name: Setup Pages
         uses: actions/configure-pages@v5
-
 
       - name: Prepare site
         run: |
@@ -42,24 +39,10 @@ jobs:
 
           cp output/tracks.json _site/output/
 
-
-      - name: Check site
-        run: |
-          echo "=== _site ==="
-          find _site -maxdepth 2 -type f -print
-
-          echo "=== tracks.json ==="
-          ls -lh _site/output/tracks.json
-
-          echo "=== tracks count ==="
-          python -c "import json; d=json.load(open('_site/output/tracks.json')); print(len(d['tracks']))"
-
-
       - name: Upload Pages artifact
         uses: actions/upload-pages-artifact@v4
         with:
           path: _site
-
 
       - name: Deploy to GitHub Pages
         id: deployment
