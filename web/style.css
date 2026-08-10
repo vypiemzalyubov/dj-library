@@ -1,0 +1,281 @@
+body {
+
+    font-family:
+        -apple-system,
+        BlinkMacSystemFont,
+        "Segoe UI",
+        sans-serif;
+
+    background: #111;
+
+    color: white;
+
+    margin: 0;
+
+}
+
+
+.container {
+
+    max-width: 900px;
+
+    margin: 30px auto;
+
+    padding: 20px;
+
+}
+
+
+/* HEADER */
+
+h1 {
+
+    text-align: center;
+
+    margin-bottom: 25px;
+
+}
+
+
+
+/* SEARCH */
+
+.controls {
+
+    display: flex;
+
+    gap: 10px;
+
+    margin-bottom: 20px;
+
+}
+
+
+#search {
+
+    flex: 1;
+
+    padding: 12px;
+
+    font-size: 16px;
+
+    border-radius: 8px;
+
+    border: none;
+
+}
+
+
+#genre {
+
+    width: 180px;
+
+    padding: 12px;
+
+    border-radius: 8px;
+
+    border: none;
+
+}
+
+
+
+/* COUNTER */
+
+#counter {
+
+    margin-bottom: 15px;
+
+    color: #aaa;
+
+}
+
+
+
+/* PAGINATION */
+
+#pagination,
+#pagination-bottom {
+
+    display: flex;
+
+    justify-content: center;
+
+    gap: 6px;
+
+    flex-wrap: wrap;
+
+    margin: 15px 0;
+
+}
+
+
+
+/* TRACK */
+
+.track {
+
+    background: #1b1b1b;
+
+    padding: 14px;
+
+    margin-bottom: 10px;
+
+    border-radius: 10px;
+
+}
+
+
+
+/* TITLE */
+
+.title {
+
+    font-size: 16px;
+
+    font-weight: 600;
+
+    line-height: 1.3;
+
+}
+
+
+.online-search {
+
+    text-decoration: none;
+
+    margin-right: 5px;
+
+    font-size: 15px;
+
+}
+
+
+
+/* MAIN INFO */
+
+.info {
+
+    margin-top: 10px;
+
+    line-height: 1.35;
+
+}
+
+
+.info > div {
+
+    margin-top: 5px;
+
+}
+
+
+
+/* DETAILS */
+
+details {
+
+    margin-top: 8px;
+
+}
+
+
+details summary {
+
+    cursor: pointer;
+
+    color: #999;
+
+    font-size: 13px;
+
+    line-height: 1.2;
+
+    padding: 0;
+
+}
+
+
+details summary::-webkit-details-marker {
+
+    font-size: 11px;
+
+}
+
+
+
+.details {
+
+    margin-top: 8px;
+
+    line-height: 1.35;
+
+}
+
+
+.details > div {
+
+    margin-top: 5px;
+
+}
+
+
+
+/* PATH + FILE */
+
+.path,
+.filename {
+
+    font-size: 12px;
+
+    color: #777;
+
+}
+
+
+.filename {
+
+    margin-top: 4px;
+
+}
+
+
+
+/* GENRE */
+
+.genre {
+
+    color: #bbb;
+
+}
+
+
+
+/* DATE */
+
+.date {
+
+    color: #aaa;
+
+}
+
+
+
+/* MOBILE */
+
+@media (max-width: 700px) {
+
+
+    .controls {
+
+        flex-direction: column;
+
+    }
+
+
+    #genre {
+
+        width: 100%;
+
+    }
+
+}
