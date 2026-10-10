@@ -36,6 +36,7 @@ jobs:
           cp web/index.html _site/
           cp web/app.js _site/
           cp web/style.css _site/
+          cp web/favicon.jpg _site/
 
           cp output/tracks.json _site/output/
 
