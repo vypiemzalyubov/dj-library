@@ -1,5 +1,5 @@
 {
-  "count": 5241,
+  "count": 5251,
   "tracks": [
     {
       "artist": "",
@@ -86285,6 +86285,193 @@
       "release_date": "2019/11/29",
       "display_name": "ЛАУД, CREAM SODA - Русский Стандарт",
       "search_text": "лауд, cream soda - русский стандарт лауд, cream soda - русский стандарт.mp3 house hip-hop"
+    },
+    {
+      "artist": "",
+      "title": "DUMMFOUND - DAHA",
+      "filename": "DUMMFOUND - DAHA.mp3",
+      "directory": "/:Users/:vypiem_za_lyubov/:Music/:vypiem_za_lyubov/:System 108 & STVOL/:",
+      "folder": "System 108 & STVOL",
+      "path": "vypiem_za_lyubov / System 108 & STVOL",
+      "bpm": 136,
+      "key": "",
+      "duration": 195,
+      "genres": [
+        "Electro House",
+        "Hard",
+        "Rave"
+      ],
+      "release_date": "2025/12/5",
+      "display_name": "DUMMFOUND - DAHA",
+      "search_text": "dummfound - daha dummfound - daha.mp3 electro house hard rave"
+    },
+    {
+      "artist": "",
+      "title": "Quest Pistols Show, Меджикул - Ух ты какой!",
+      "filename": "Quest Pistols Show, Меджикул - Ух ты какой!.mp3",
+      "directory": "/:Users/:vypiem_za_lyubov/:Music/:original/:russian/:",
+      "folder": "russian",
+      "path": "original / russian",
+      "bpm": 124,
+      "key": "",
+      "duration": 234,
+      "genres": [
+        "Nu Disco",
+        "Indie Pop"
+      ],
+      "release_date": "2025/12/17",
+      "display_name": "Quest Pistols Show, Меджикул - Ух ты какой!",
+      "search_text": "quest pistols show, меджикул - ух ты какой! quest pistols show, меджикул - ух ты какой!.mp3 nu disco indie pop"
+    },
+    {
+      "artist": "",
+      "title": "Меджикул - Импичмент (Disco House Remix)",
+      "filename": "Меджикул - Импичмент (Disco House Remix).mp3",
+      "directory": "/:Users/:vypiem_za_lyubov/:Music/:original/:russian/:",
+      "folder": "russian",
+      "path": "original / russian",
+      "bpm": 122,
+      "key": "",
+      "duration": 256,
+      "genres": [
+        "Disco House",
+        "Funk",
+        "Nu Disco"
+      ],
+      "release_date": "2020/1/1",
+      "display_name": "Меджикул - Импичмент (Disco House Remix)",
+      "search_text": "меджикул - импичмент (disco house remix) меджикул - импичмент (disco house remix).mp3 disco house funk nu disco"
+    },
+    {
+      "artist": "",
+      "title": "Меджикул - Миссисипи",
+      "filename": "Меджикул - Миссисипи.mp3",
+      "directory": "/:Users/:vypiem_za_lyubov/:Music/:original/:russian/:",
+      "folder": "russian",
+      "path": "original / russian",
+      "bpm": 117,
+      "key": "",
+      "duration": 159,
+      "genres": [
+        "Funk",
+        "Nu Disco"
+      ],
+      "release_date": "2026/5/5",
+      "display_name": "Меджикул - Миссисипи",
+      "search_text": "меджикул - миссисипи меджикул - миссисипи.mp3 funk nu disco"
+    },
+    {
+      "artist": "",
+      "title": "Меджикул - Шейпинг",
+      "filename": "Меджикул - Шейпинг.mp3",
+      "directory": "/:Users/:vypiem_za_lyubov/:Music/:original/:russian/:",
+      "folder": "russian",
+      "path": "original / russian",
+      "bpm": 128,
+      "key": "",
+      "duration": 148,
+      "genres": [
+        "Funk",
+        "Nu Disco",
+        "Neo Soul"
+      ],
+      "release_date": "2026/6/5",
+      "display_name": "Меджикул - Шейпинг",
+      "search_text": "меджикул - шейпинг меджикул - шейпинг.mp3 funk nu disco neo soul"
+    },
+    {
+      "artist": "",
+      "title": "Меджикул - Ядовитая любовь",
+      "filename": "Меджикул - Ядовитая любовь.mp3",
+      "directory": "/:Users/:vypiem_za_lyubov/:Music/:original/:russian/:",
+      "folder": "russian",
+      "path": "original / russian",
+      "bpm": 120,
+      "key": "",
+      "duration": 227,
+      "genres": [
+        "Funk",
+        "Nu Disco",
+        "Pop"
+      ],
+      "release_date": "2026/2/27",
+      "display_name": "Меджикул - Ядовитая любовь",
+      "search_text": "меджикул - ядовитая любовь меджикул - ядовитая любовь.mp3 funk nu disco pop"
+    },
+    {
+      "artist": "",
+      "title": "Sipe - Водоросли",
+      "filename": "Sipe - Водоросли.mp3",
+      "directory": "/:Users/:vypiem_za_lyubov/:Music/:vypiem_za_lyubov/:electronica_&_lo_fi/:",
+      "folder": "electronica_&_lo_fi",
+      "path": "vypiem_za_lyubov / electronica_&_lo_fi",
+      "bpm": 110,
+      "key": "",
+      "duration": 199,
+      "genres": [
+        "Electronica",
+        "Alternative"
+      ],
+      "release_date": "2025/4/11",
+      "display_name": "Sipe - Водоросли",
+      "search_text": "sipe - водоросли sipe - водоросли.mp3 electronica alternative"
+    },
+    {
+      "artist": "",
+      "title": "Антоха МС, muzaferov - Всё просто (RMX)",
+      "filename": "Антоха МС, muzaferov - Всё просто (RMX).mp3",
+      "directory": "/:Users/:vypiem_za_lyubov/:Music/:vypiem_za_lyubov/:electronica_&_lo_fi/:",
+      "folder": "electronica_&_lo_fi",
+      "path": "vypiem_za_lyubov / electronica_&_lo_fi",
+      "bpm": 140,
+      "key": "",
+      "duration": 186,
+      "genres": [
+        "EDM",
+        "Dance",
+        "Indie Pop",
+        "Hip-Hop"
+      ],
+      "release_date": "2026/5/29",
+      "display_name": "Антоха МС, muzaferov - Всё просто (RMX)",
+      "search_text": "антоха мс, muzaferov - всё просто (rmx) антоха мс, muzaferov - всё просто (rmx).mp3 edm dance indie pop hip-hop"
+    },
+    {
+      "artist": "",
+      "title": "Street Choice, Боб Крома - Телепат",
+      "filename": "Street Choice, Боб Крома - Телепат.mp3",
+      "directory": "/:Users/:vypiem_za_lyubov/:Music/:vypiem_za_lyubov/:System 108 & STVOL/:",
+      "folder": "System 108 & STVOL",
+      "path": "vypiem_za_lyubov / System 108 & STVOL",
+      "bpm": 116,
+      "key": "",
+      "duration": 189,
+      "genres": [
+        "Breakbeat",
+        "Hip-Hop"
+      ],
+      "release_date": "2021/11/8",
+      "display_name": "Street Choice, Боб Крома - Телепат",
+      "search_text": "street choice, боб крома - телепат street choice, боб крома - телепат.mp3 breakbeat hip-hop"
+    },
+    {
+      "artist": "",
+      "title": "Паша Техник, STUDMIRE - SPORT",
+      "filename": "Паша Техник, STUDMIRE - SPORT.mp3",
+      "directory": "/:Users/:vypiem_za_lyubov/:Music/:vypiem_za_lyubov/:System 108 & STVOL/:",
+      "folder": "System 108 & STVOL",
+      "path": "vypiem_za_lyubov / System 108 & STVOL",
+      "bpm": 138,
+      "key": "",
+      "duration": 154,
+      "genres": [
+        "Techno",
+        "Electro",
+        "Breakbeat"
+      ],
+      "release_date": "2026/1/30",
+      "display_name": "Паша Техник, STUDMIRE - SPORT",
+      "search_text": "паша техник, studmire - sport паша техник, studmire - sport.mp3 techno electro breakbeat"
     }
   ]
 }
